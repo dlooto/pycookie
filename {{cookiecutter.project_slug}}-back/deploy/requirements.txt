@@ -8,6 +8,7 @@ fabric==2.0.1
 gunicorn==19.8.1
 Pillow==5.1.0
 PyMySQL==0.8.1
-pytest==3.5.1
+pytest==4.0.1
+pytest-django==3.4.4
 redis==2.10.6
 django-redis==4.9.0

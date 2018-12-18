@@ -4,7 +4,7 @@
 
   "project_name": "mysite",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "repos_url":  "git@gitee.com:dlooto/{{cookiecutter.project_name}}-back.git",
+  "repos_url":  "git@gitee.com:xjbean/{{cookiecutter.project_name}}-back.git",
   "version": "0.1.0",
   "use_pytest": "n",
   "create_author_file": "n",

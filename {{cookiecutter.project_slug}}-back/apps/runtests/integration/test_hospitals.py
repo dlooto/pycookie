@@ -13,7 +13,6 @@ from django.test import Client
 
 from {{cookiecutter.project_slug}}.hospitals.models import Staff, Group, Role
 from runtests import BaseTestCase
-from settings import FIXTURE_DIRS
 
 logger = logging.getLogger('runtests')
 

@@ -14,7 +14,6 @@ from base.common.param_utils import get_id_list
 from django.conf import settings
 from django.db import transaction
 from rest_framework.permissions import AllowAny
-from base.common.permissions import CustomerAllPermission, CustomerAnyPermission
 from .serializers import StaffSerializer, RoleSerializer, \
     DepartmentStaffsCountSerializer, StaffWithRoleSerializer
 
