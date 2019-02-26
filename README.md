@@ -1,14 +1,14 @@
 ## 为什么要使用 Cookiecutter?
-* 快速复制代码工程, 应对多项目多产品体系    ***
+* 快速复制代码工程, 应对多项目多产品体系    
 * 已有多年积累的基础代码框架
 * 简单配置, 一键建立初始代码工程结构
     * Cookiecuter: 根据已有工程模板创建新工程
     * 原本主用于开源社区
 
 ## 配置与安装步骤 - -以Python/Django后端工程为例
-* mkvirtualenv <pycookie>         # 安装cookiecutter运行环境
+* mkvirtualenv <pycookie>         --安装cookiecutter运行环境
 * pip install cookiecutter
-* 设置初始代码工程模板             # 或提交到Code Repository
+* 设置初始代码工程模板               --或提交到Code Repository
 * 添加并修改配置文件: cookiecutter.json
 * cookiecutter  <base_code_project>  # or <remote_code_repos>
     1.通过本地代码工程
