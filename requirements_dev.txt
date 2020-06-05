@@ -1,4 +1,4 @@
-Django==2.0
+Django==2.2.13
 pytest==3.5.1
 tox==2.9.1
 cookiecutter>=1.4.0
